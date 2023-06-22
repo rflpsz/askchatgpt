@@ -58,6 +58,6 @@ Para dúvidas e suporte, entre em contato pelo email rflpsz@gmail.com.
 
 ## Doações
 
-Se você deseja fazer uma doação de qualquer valor para incentivar a criação de conteúdos como este, utilize o PIX com o email: contato@rafasouza.dev.
+Se você deseja fazer uma doação de qualquer valor para incentivar a criação de conteúdos como este, utilize o PIX com o email: contato@rafasouza.dev
 
 Espero ter ajudado! Abraços.
