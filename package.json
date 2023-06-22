@@ -1,0 +1,26 @@
+{
+  "name": "askgpt",
+  "version": "1.0.0",
+  "description": "a simple asker for chat gpt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rflpsz/askgpt.git"
+  },
+  "author": "Rafael Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rflpsz/askgpt/issues"
+  },
+  "homepage": "https://github.com/rflpsz/askgpt#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^15.6.0"
+  }
+}
