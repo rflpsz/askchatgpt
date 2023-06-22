@@ -46,6 +46,12 @@ Agora, basta abrir o Postman e fazer uma requisição, por exemplo:
 
 http://localhost:8888/.netlify/functions/askgpt?prompt=Retorne os 10 primeiros números da sequência de Fibonacci&max_tokens=100&temperature=0.7&role_system=você é um especialista em matemática&apikey=YOUR_API_KEY&model=gpt-3.5-turbo
 
+## Demo
+
+1. Eu disponibilizei um serviço como esse pronto, funcionando, basta fazer o request abaixo:
+
+https://askforchatgpt.netlify.app/.netlify/functions/askgpt?prompt=SUA_PERGUNTA&max_tokens=100&temperature=0.7&role_system=SUA_ROLE_SYSTEM&apikey=YOUR_API_KEY&model=gpt-3.5-turbo
+
 ## Dúvidas
 
 Para dúvidas e suporte, entre em contato pelo email rflpsz@gmail.com.
